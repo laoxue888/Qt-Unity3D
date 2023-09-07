@@ -1,0 +1,30 @@
+# 运行环境
+
+Qt：MinGW 6.5.2 64bit
+
+Unity3D：2022.3.7f1c1
+
+# 编辑
+
+右键打开C#项目，编辑代码
+
+![](images/img.png)
+
+
+
+# 学习资料
+
+![](images/img_1.png)
+
+[C# 菜鸟教程](https://www.runoob.com/csharp/csharp-tutorial.html)
+
+[Unity C#调试](https://docs.unity3d.com/cn/2019.4/Manual/ManagedCodeDebugging.html)
+
+
+# Bugs
+
+## [Unity with Visual Studio 2019 : Assembly-CSharp (incompatible) in Solution ExplorerUnity 与 Visual Studio 2019：解决方案资源管理器中的 Assembly-CSharp（不兼容）](https://www.likecs.com/ask-769012.html)
+
+![](images/img_3.png)
+
+
