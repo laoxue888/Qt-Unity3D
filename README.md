@@ -6,6 +6,8 @@ Unity3D：2022.3.7f1c1
 
 # 编辑
 
+参考[https://github.com/laoxue888/Racing_Car](https://github.com/laoxue888/Racing_Car)导入Unity项目。
+
 右键打开C#项目，编辑代码
 
 ![](images/img.png)
